@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skandla2002/nextjs-basic.git",
+  "author": "Andy Pak <skandla2002@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
